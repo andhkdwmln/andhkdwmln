@@ -13,9 +13,6 @@
     🎮 Music • Games • Anime • Code
   </pre>
   ---
-  
-  <br>
 
-  ![Static Badge](https://img.shields.io/badge/Website-white?style=flat&link=https://sennzai.dev)
   
 </div>
