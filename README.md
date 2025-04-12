@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello everyone ! 👋
 
-<!--
-**andhkdwmln/andhkdwmln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=andhkdwmln.andhkdwmln)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Javascript
+
+class Data {
+
+    constructor () {
+
+        this._name = "Andhika Dwi Maulana";
+        this._age = 24;
+        this._role = "Backend Developer";
+        this._language = ['id', 'en', 'jp'];
+
+    }
+
+    async 
+
+}
+
+module.exports = Data;
+
+```
