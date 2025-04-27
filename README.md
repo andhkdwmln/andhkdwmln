@@ -1,8 +1,5 @@
 # Hello everyone ! 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=andhkdwmln.andhkdwmln)
-
-
 ```Javascript
 
 class Data {
